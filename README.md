@@ -9,7 +9,7 @@
 ## PROJECT STRUCTURE
   This repository is organized into three main folders:
   
-- **Data**
+- [**Data**](./Data)
   Contains 11 CSV files with relevant information about the COVID-19 pandemic globally, such as confirmed cases, deaths, recovery rates, and more. These datasets form the foundation for the analyses presented in the dashboards.
   
 - **Dashboard**
