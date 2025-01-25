@@ -12,10 +12,10 @@
 - [**Data**](./Data)
   Contains 11 CSV files with relevant information about the COVID-19 pandemic globally, such as confirmed cases, deaths, recovery rates, and more. These datasets form the foundation for the analyses presented in the dashboards.
   
-- **Dashboard**
+- [**Dashboard**](./Dashboard)
   Contains the Power BI file with interactive dashboards created from the data. These dashboards display key metrics, such as the pandemic's temporal evolution, mortality rates, country comparisons, and other indicators essential for understanding the global impact of COVID-19.
   
-- **Docs**
+- [**Docs**](./Docs)
   Contains important documents related to the project:
   
   - **Report**: A detailed document explaining the findings and analyses performed in the project. The report is structured as follows:
