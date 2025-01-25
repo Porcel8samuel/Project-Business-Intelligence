@@ -1,0 +1,437 @@
+﻿Major group,Job title,Puntuación media,mean_exposure_level,Desviación estándar,Potential
+Ocupaciones militares,Oficiales de las fuerzas armadas,NA,NA,NA,Not affected
+Ocupaciones militares,Suboficiales de las fuerzas armadas,NA,NA,NA,Not affected
+Ocupaciones militares,Otros miembros de las fuerzas armadas,NA,NA,NA,Not affected
+Directores y gerentes,Miembros del poder legislativo,0.22,Very low,0.07,Not affected
+Directores y gerentes,Personal directivo de la administración pública,0.32,Low,0.16,Not affected
+Directores y gerentes,Jefes de pequeñas poblaciones,0.33,Low,0.19,Augmentation potential
+Directores y gerentes,Dirigentes de organizaciones que presentan un interés especial,0.31,Low,0.15,Not affected
+Directores y gerentes,Directores generales y gerentes generales,0.3,Low,0.12,Not affected
+Directores y gerentes,Directores financieros,0.3,Low,0.13,Not affected
+Directores y gerentes,Directores de recursos humanos,0.27,Low,0.09,Not affected
+Directores y gerentes,Directores de políticas y planificación,0.22,Very low,0.08,Not affected
+Directores y gerentes,Directores de administración y servicios no clasificados bajo otros epígrafes,0.33,Low,0.17,Not affected
+Directores y gerentes,Directores de ventas y comercialización,0.29,Low,0.16,Not affected
+Directores y gerentes,Directores de publicidad y relaciones públicas,0.33,Low,0.12,Not affected
+Directores y gerentes,Directores de investigación y desarrollo,0.24,Very low,0.12,Not affected
+Directores y gerentes,Directores de producción agropecuaria y silvicultura,0.29,Low,0.15,Not affected
+Directores y gerentes,Directores de producción de piscicultura y pesca,0.31,Low,0.16,Not affected
+Directores y gerentes,Directores de industrias manufactureras,0.36,Low,0.1,Not affected
+Directores y gerentes,Directores de explotaciones de minería,0.36,Low,0.18,Augmentation potential
+Directores y gerentes,Directores de empresas de construcción,0.41,Low,0.19,The big unknown
+Directores y gerentes,"Directores de empresas de abastecimiento, distribución y afines",0.39,Low,0.14,Augmentation potential
+Directores y gerentes,Directores de servicios de tecnología de la información y las comunicaciones,0.31,Low,0.13,Not affected
+Directores y gerentes,Directores de servicios de cuidados infantiles,0.26,Low,0.14,Not affected
+Directores y gerentes,Directores de servicios de salud,0.32,Low,0.12,Not affected
+Directores y gerentes,Directores de servicios de cuidado de las personas de edad,0.25,Very low,0.09,Not affected
+Directores y gerentes,Directores  de servicios de bienestar social,0.32,Low,0.14,Not affected
+Directores y gerentes,Directores de servicios de educación,0.27,Low,0.11,Not affected
+Directores y gerentes,"Gerentes de sucursales de bancos, de servicios financieros y de seguros",0.41,Low,0.19,The big unknown
+Directores y gerentes,Directores y gerentes de servicios profesionales no clasificados bajo otros epígrafes,0.32,Low,0.14,Not affected
+Directores y gerentes,Gerentes de hoteles,0.4,Low,0.2,The big unknown
+Directores y gerentes,Gerentes de restaurantes,0.42,Low,0.23,The big unknown
+Directores y gerentes,Gerentes de comercios al por mayor y al por menor,0.44,Low,0.24,The big unknown
+Directores y gerentes,"Gerentes de centros deportivos, de esparcimiento y culturales",0.33,Low,0.17,Not affected
+Directores y gerentes,Gerentes de servicios no clasificados bajo otros epígrafes,NA,NA,NA,Not affected
+Profesionales científicos e intelectuales,Físicos y astrónomos,0.35,Low,0.18,Augmentation potential
+Profesionales científicos e intelectuales,Meteorólogos,0.44,Low,0.23,The big unknown
+Profesionales científicos e intelectuales,Químicos,0.32,Low,0.16,Not affected
+Profesionales científicos e intelectuales,Geólogos y geofísicos,0.32,Low,0.13,Not affected
+Profesionales científicos e intelectuales,"Matemáticos, actuarios y estadísticos",0.5,Low,0.15,The big unknown
+Profesionales científicos e intelectuales,"Biólogos, botánicos, zoólogos y afines",0.35,Low,0.21,Augmentation potential
+Profesionales científicos e intelectuales,Agrónomos y afines,0.3,Low,0.13,Not affected
+Profesionales científicos e intelectuales,Profesionales de la protección medioambiental,0.36,Low,0.11,Not affected
+Profesionales científicos e intelectuales,Ingenieros industriales y de producción,0.32,Low,0.12,Not affected
+Profesionales científicos e intelectuales,Ingenieros civiles,0.34,Low,0.04,Not affected
+Profesionales científicos e intelectuales,Ingenieros medioambientales,0.32,Low,0.17,Not affected
+Profesionales científicos e intelectuales,Ingenieros mecánicos,0.31,Low,0.06,Not affected
+Profesionales científicos e intelectuales,Ingenieros químicos,0.31,Low,0.18,Not affected
+Profesionales científicos e intelectuales,"Ingenieros de minas, metalúrgicos y afines",0.27,Low,0.06,Not affected
+Profesionales científicos e intelectuales,Ingenieros no clasificados bajo otros epígrafes,0.22,Very low,0.08,Not affected
+Profesionales científicos e intelectuales,Ingenieros electricistas,0.33,Low,0.15,Not affected
+Profesionales científicos e intelectuales,Ingenieros electrónicos,0.29,Low,0.04,Not affected
+Profesionales científicos e intelectuales,Ingenieros en telecomunicaciones,0.34,Low,0.05,Not affected
+Profesionales científicos e intelectuales,Arquitectos,0.39,Low,0.22,Augmentation potential
+Profesionales científicos e intelectuales,Arquitectos paisajistas,0.38,Low,0.14,Augmentation potential
+Profesionales científicos e intelectuales,Diseñadores de productos y de prendas,0.38,Low,0.14,Augmentation potential
+Profesionales científicos e intelectuales,Urbanistas e ingenieros de tránsito,0.47,Low,0.14,The big unknown
+Profesionales científicos e intelectuales,Cartógrafos y agrimensores,0.38,Low,0.17,Augmentation potential
+Profesionales científicos e intelectuales,Diseñadores gráficos y multimedia,0.42,Low,0.17,The big unknown
+Profesionales científicos e intelectuales,Médicos generales,0.31,Low,0.15,Not affected
+Profesionales científicos e intelectuales,Médicos especialistas,0.29,Low,0.24,Augmentation potential
+Profesionales científicos e intelectuales,Profesionales de enfermería,0.25,Very low,0.15,Not affected
+Profesionales científicos e intelectuales,Profesionales de partería,0.25,Very low,0.2,Not affected
+Profesionales científicos e intelectuales,Profesionales de medicina tradicional y alternativa,0.36,Low,0.24,Augmentation potential
+Profesionales científicos e intelectuales,Practicantes paramédicos,0.23,Very low,0.21,Not affected
+Profesionales científicos e intelectuales,Veterinarios,0.18,Very low,0.18,Not affected
+Profesionales científicos e intelectuales,Dentistas,0.21,Very low,0.13,Not affected
+Profesionales científicos e intelectuales,Farmacéuticos,0.33,Low,0.22,Augmentation potential
+Profesionales científicos e intelectuales,Profesionales de la salud y la higiene laboral y ambiental,0.33,Low,0.11,Not affected
+Profesionales científicos e intelectuales,Fisioterapeutas,0.17,Very low,0.1,Not affected
+Profesionales científicos e intelectuales,Dietistas y nutricionistas,0.39,Low,0.18,Augmentation potential
+Profesionales científicos e intelectuales,Audiólogos y logopedas,0.2,Very low,0.06,Not affected
+Profesionales científicos e intelectuales,Optometristas,0.16,Very low,0.09,Not affected
+Profesionales científicos e intelectuales,Profesionales de la salud no clasificados bajo otros epígrafes,0.16,Very low,0.11,Not affected
+Profesionales científicos e intelectuales,Profesores de universidades y de la enseñanza superior,0.32,Low,0.17,Not affected
+Profesionales científicos e intelectuales,Profesores de formación profesional,0.39,Low,0.13,Augmentation potential
+Profesionales científicos e intelectuales,Profesores de enseñanza secundaria,0.33,Low,0.18,Augmentation potential
+Profesionales científicos e intelectuales,Maestros de enseñanza primaria,0.32,Low,0.23,Augmentation potential
+Profesionales científicos e intelectuales,Maestros preescolares,0.17,Very low,0.09,Not affected
+Profesionales científicos e intelectuales,Especialistas en métodos pedagógicos,0.35,Low,0.19,Augmentation potential
+Profesionales científicos e intelectuales,Educadores para necesidades especiales,0.33,Low,0.16,Not affected
+Profesionales científicos e intelectuales,Otros profesores de idiomas,0.54,Medium,0.12,The big unknown
+Profesionales científicos e intelectuales,Otros profesores de música,0.36,Low,0.14,Not affected
+Profesionales científicos e intelectuales,Otros profesores de artes,0.46,Low,0.2,The big unknown
+Profesionales científicos e intelectuales,Instructores en tecnología de la información,0.52,Medium,0.18,The big unknown
+Profesionales científicos e intelectuales,Profesionales de la enseñanza no clasificados bajo otros epígrafes,0.41,Low,0.17,The big unknown
+Profesionales científicos e intelectuales,Contables,0.52,Medium,0.14,The big unknown
+Profesionales científicos e intelectuales,Asesores financieros y en inversiones,0.45,Low,0.23,The big unknown
+Profesionales científicos e intelectuales,Analistas financieros,0.59,Medium,0.11,The big unknown
+Profesionales científicos e intelectuales,Analistas de gestión y organización,0.43,Low,0.18,The big unknown
+Profesionales científicos e intelectuales,Especialistas en políticas de administración,0.45,Low,0.2,The big unknown
+Profesionales científicos e intelectuales,Especialistas en políticas y servicios de personal y afines,0.43,Low,0.16,The big unknown
+Profesionales científicos e intelectuales,Especialistas en formación del personal,0.47,Low,0.2,The big unknown
+Profesionales científicos e intelectuales,Profesionales de la publicidad y la comercialización,0.51,Medium,0.15,The big unknown
+Profesionales científicos e intelectuales,Profesionales de relaciones públicas,0.38,Low,0.1,Not affected
+Profesionales científicos e intelectuales,Profesionales de ventas técnicas y médicas (excluyendo la TIC),0.55,Medium,0.21,The big unknown
+Profesionales científicos e intelectuales,Profesionales de ventas de tecnología de la información y las comunicaciones,0.55,Medium,0.13,The big unknown
+Profesionales científicos e intelectuales,Analistas de sistemas,0.37,Low,0.09,Not affected
+Profesionales científicos e intelectuales,Desarrolladores de software,0.34,Low,0.09,Not affected
+Profesionales científicos e intelectuales,Desarrolladores Web y multimedia,0.32,Low,0.04,Not affected
+Profesionales científicos e intelectuales,Programadores de aplicaciones,0.62,Medium,0.08,Automation potential
+Profesionales científicos e intelectuales,Desarrolladores y analistas de software y multimedia no clasificados bajo otros epígrafes,0.39,Low,0.15,Augmentation potential
+Profesionales científicos e intelectuales,Diseñadores y administradores de bases de datos,0.38,Low,0.12,Not affected
+Profesionales científicos e intelectuales,Administradores de sistemas,0.43,Low,0.22,The big unknown
+Profesionales científicos e intelectuales,Profesionales en redes de computadores,0.39,Low,0.16,Augmentation potential
+Profesionales científicos e intelectuales,Especialistas en bases de datos y en redes de computadores no clasificados bajo otros epígrafes,0.44,Low,0.18,The big unknown
+Profesionales científicos e intelectuales,Abogados,0.34,Low,0.15,Not affected
+Profesionales científicos e intelectuales,Jueces,0.27,Low,0.17,Not affected
+Profesionales científicos e intelectuales,Profesionales en derecho no clasificados bajo otros epígrafes,0.31,Low,0.18,Not affected
+Profesionales científicos e intelectuales,Archivistas y curadores de museos,0.44,Low,0.16,The big unknown
+Profesionales científicos e intelectuales,"Bibliotecarios, documentalistas y afines",0.65,Medium,0.09,Automation potential
+Profesionales científicos e intelectuales,Economistas,0.54,Medium,0.13,The big unknown
+Profesionales científicos e intelectuales,"Sociólogos, antropólogos y afines",0.45,Low,0.15,The big unknown
+Profesionales científicos e intelectuales,"Filósofos, historiadores y especialistas en ciencias políticas",0.41,Low,0.17,The big unknown
+Profesionales científicos e intelectuales,Psicólogos,0.41,Low,0.15,The big unknown
+Profesionales científicos e intelectuales,Profesionales del trabajo social,0.29,Low,0.12,Not affected
+Profesionales científicos e intelectuales,Profesionales religiosos,0.22,Very low,0.09,Not affected
+Profesionales científicos e intelectuales,Autores y otros escritores,0.68,Medium,0.08,Automation potential
+Profesionales científicos e intelectuales,Periodistas,0.55,Medium,0.19,The big unknown
+Profesionales científicos e intelectuales,"Traductores, intérpretes y lingüistas",0.59,Medium,0.22,The big unknown
+Profesionales científicos e intelectuales,Artistas de artes plásticas,0.24,Very low,0.09,Not affected
+Profesionales científicos e intelectuales,"Músicos, cantantes y compositores",0.38,Low,0.3,Augmentation potential
+Profesionales científicos e intelectuales,Bailarines y coreógrafos,0.15,Very low,0.08,Not affected
+Profesionales científicos e intelectuales,"Directores de cine, de teatro y afines",0.26,Low,0.22,Not affected
+Profesionales científicos e intelectuales,Actores,0.31,Low,0.34,Augmentation potential
+Profesionales científicos e intelectuales,"Locutores de radio, televisión y otros medios de comunicación",0.55,Medium,0.14,The big unknown
+Profesionales científicos e intelectuales,Artistas creativos e interpretativos no clasificados bajo otros epígrafes,0.2,Very low,0.2,Not affected
+Técnicos y profesionales de nivel medio,Técnicos en ciencias físicas y químicas,0.23,Very low,0.12,Not affected
+Técnicos y profesionales de nivel medio,Técnicos en ingeniería civil,0.31,Low,0.12,Not affected
+Técnicos y profesionales de nivel medio,Electrotécnicos,0.27,Low,0.14,Not affected
+Técnicos y profesionales de nivel medio,Técnicos en electrónica,0.31,Low,0.08,Not affected
+Técnicos y profesionales de nivel medio,Técnicos en ingeniería mecánica,0.34,Low,0.14,Not affected
+Técnicos y profesionales de nivel medio,Técnicos en química industrial,0.37,Low,0.16,Augmentation potential
+Técnicos y profesionales de nivel medio,Técnicos en ingeniería de minas y metalurgia,0.29,Low,0.15,Not affected
+Técnicos y profesionales de nivel medio,Delineantes y dibujantes técnicos,0.44,Low,0.16,The big unknown
+Técnicos y profesionales de nivel medio,Técnicos en ciencias físicas y en ingeniería no clasificados bajo otros epígrafes,0.42,Low,0.13,The big unknown
+Técnicos y profesionales de nivel medio,Supervisores en ingeniería de minas,0.3,Low,0.07,Not affected
+Técnicos y profesionales de nivel medio,Supervisores de industrias manufactureras,0.35,Low,0.16,Augmentation potential
+Técnicos y profesionales de nivel medio,Supervisores de la construcción,0.2,Very low,0.11,Not affected
+Técnicos y profesionales de nivel medio,Operadores de instalaciones de producción de energía,0.34,Low,0.24,Augmentation potential
+Técnicos y profesionales de nivel medio,"Operadores de incineradores, instalaciones de tratamiento de agua y afines",0.31,Low,0.19,Not affected
+Técnicos y profesionales de nivel medio,Controladores de instalaciones de procesamiento de productos químicos,0.37,Low,0.24,Augmentation potential
+Técnicos y profesionales de nivel medio,Operadores de instalaciones de refinación de petróleo y gas natural,0.3,Low,0.2,Not affected
+Técnicos y profesionales de nivel medio,Controladores de procesos de producción de metales,0.41,Low,0.19,The big unknown
+Técnicos y profesionales de nivel medio,Técnicos en control de procesos no clasificados bajo otros epígrafes,NA,NA,NA,Not affected
+Técnicos y profesionales de nivel medio,Técnicos en ciencias biológicas (excluyendo la medicina),0.37,Low,0.24,Augmentation potential
+Técnicos y profesionales de nivel medio,Técnicos agropecuarios,0.27,Low,0.16,Not affected
+Técnicos y profesionales de nivel medio,Técnicos forestales,0.28,Low,0.14,Not affected
+Técnicos y profesionales de nivel medio,Oficiales maquinistas en navegación,0.29,Low,0.19,Not affected
+Técnicos y profesionales de nivel medio,"Capitanes, oficiales de cubierta y prácticos",0.35,Low,0.2,Augmentation potential
+Técnicos y profesionales de nivel medio,Pilotos de aviación y afines,0.24,Very low,0.17,Not affected
+Técnicos y profesionales de nivel medio,Controladores de tráfico aéreo,0.3,Low,0.2,Not affected
+Técnicos y profesionales de nivel medio,Técnicos en seguridad aeronáutica,0.3,Low,0.14,Not affected
+Técnicos y profesionales de nivel medio,Técnicos en aparatos de diagnóstico y tratamiento médico,0.2,Very low,0.11,Not affected
+Técnicos y profesionales de nivel medio,Técnicos de laboratorios médicos,0.3,Low,0.21,Augmentation potential
+Técnicos y profesionales de nivel medio,Técnicos y asistentes farmacéuticos,0.38,Low,0.22,Augmentation potential
+Técnicos y profesionales de nivel medio,Técnicos de prótesis médicas y dentales,0.16,Very low,0.08,Not affected
+Técnicos y profesionales de nivel medio,Profesionales de nivel medio de enfermería,0.25,Very low,0.23,Not affected
+Técnicos y profesionales de nivel medio,Profesionales de nivel medio de partería,0.21,Very low,0.26,Not affected
+Técnicos y profesionales de nivel medio,Profesionales de nivel medio de medicina tradicional y alternativa,0.21,Very low,0.13,Not affected
+Técnicos y profesionales de nivel medio,Técnicos y asistentes veterinarios,0.12,Very low,0.06,Not affected
+Técnicos y profesionales de nivel medio,Dentistas auxiliares y ayudantes de odontología,0.16,Very low,0.1,Not affected
+Técnicos y profesionales de nivel medio,Técnicos en documentación sanitaria,0.48,Low,0.14,The big unknown
+Técnicos y profesionales de nivel medio,Trabajadores comunitarios de la salud,0.3,Low,0.21,Augmentation potential
+Técnicos y profesionales de nivel medio,Técnicos en optometría y ópticos,0.26,Low,0.14,Not affected
+Técnicos y profesionales de nivel medio,Técnicos y asistentes fisioterapeutas,0.17,Very low,0.05,Not affected
+Técnicos y profesionales de nivel medio,Practicantes y asistentes médicos,0.38,Low,0.27,Augmentation potential
+Técnicos y profesionales de nivel medio,"Inspectores de la salud laboral,  medioambiental y afines",0.32,Low,0.15,Not affected
+Técnicos y profesionales de nivel medio,Ayudantes de ambulancias,0.14,Very low,0.08,Not affected
+Técnicos y profesionales de nivel medio,Profesionales de la salud de nivel medio no clasificados bajo otros epígrafes,0.26,Low,0.17,Not affected
+Técnicos y profesionales de nivel medio,"Agentes de bolsa, cambio y otros servicios financieros",0.67,Medium,0.04,Automation potential
+Técnicos y profesionales de nivel medio,Oficiales de préstamos y créditos,0.57,Medium,0.14,The big unknown
+Técnicos y profesionales de nivel medio,Tenedores de libros,0.48,Low,0.19,The big unknown
+Técnicos y profesionales de nivel medio,"Profesionales de nivel medio de servicios estadísticos, matemáticos y afines",0.48,Low,0.2,The big unknown
+Técnicos y profesionales de nivel medio,Tasadores,0.39,Low,0.12,Augmentation potential
+Técnicos y profesionales de nivel medio,Agentes de seguros,0.46,Low,0.22,The big unknown
+Técnicos y profesionales de nivel medio,Representantes comerciales,0.63,Medium,0.19,The big unknown
+Técnicos y profesionales de nivel medio,Agentes de compras,0.48,Low,0.14,The big unknown
+Técnicos y profesionales de nivel medio,Agentes de compras y consignatarios,0.57,Medium,0.14,The big unknown
+Técnicos y profesionales de nivel medio,Declarantes o gestores de aduana,0.46,Low,0.16,The big unknown
+Técnicos y profesionales de nivel medio,Organizadores de conferencias y eventos,0.51,Medium,0.21,The big unknown
+Técnicos y profesionales de nivel medio,Agentes de empleo y contratistas de mano de obra,0.45,Low,0.16,The big unknown
+Técnicos y profesionales de nivel medio,Agentes inmobiliarios,0.38,Low,0.19,Augmentation potential
+Técnicos y profesionales de nivel medio,Agentes de servicios comerciales no clasificados bajo otros epígrafes,0.52,Medium,0.19,The big unknown
+Técnicos y profesionales de nivel medio,Supervisores de secretaría,0.41,Low,0.14,The big unknown
+Técnicos y profesionales de nivel medio,Secretarios jurídicos,0.64,Medium,0.21,The big unknown
+Técnicos y profesionales de nivel medio,Secretarios administrativos y ejecutivos,0.58,Medium,0.25,The big unknown
+Técnicos y profesionales de nivel medio,Secretarios médicos,0.61,Medium,0.2,The big unknown
+Técnicos y profesionales de nivel medio,Agentes de aduana e inspectores de fronteras,0.32,Low,0.27,Augmentation potential
+Técnicos y profesionales de nivel medio,Agentes de administración tributaria,0.46,Low,0.18,The big unknown
+Técnicos y profesionales de nivel medio,Agentes de servicios de seguridad social,0.49,Low,0.09,The big unknown
+Técnicos y profesionales de nivel medio,Agentes de servicios de expedición de licencias y permisos,0.63,Medium,0.03,Automation potential
+Técnicos y profesionales de nivel medio,Inspectores de policía y detectives,0.2,Very low,0.11,Not affected
+Técnicos y profesionales de nivel medio,Agentes de la administración pública para la aplicacion de la ley y afines no clasificados bajo otros epígrafes,0.41,Low,0.18,The big unknown
+Técnicos y profesionales de nivel medio,Profesionales de nivel medio del derecho y servicios legales y afines,0.39,Low,0.2,Augmentation potential
+Técnicos y profesionales de nivel medio,Trabajadores y asistentes sociales de nivel medio,0.29,Low,0.13,Not affected
+Técnicos y profesionales de nivel medio,Auxiliares laicos de las religiones,0.22,Very low,0.08,Not affected
+Técnicos y profesionales de nivel medio,Atletas y deportistas,0.26,Low,0.21,Not affected
+Técnicos y profesionales de nivel medio,"Entrenadores, instructores y árbitros de actividades deportivas",0.36,Low,0.17,Augmentation potential
+Técnicos y profesionales de nivel medio,Instructores de educación física y actividades recreativas,0.38,Low,0.22,Augmentation potential
+Técnicos y profesionales de nivel medio,Fotógrafos,0.35,Low,0.24,Augmentation potential
+Técnicos y profesionales de nivel medio,Diseñadores y decoradores de interior,0.38,Low,0.16,Augmentation potential
+Técnicos y profesionales de nivel medio,"Técnicos en galerías de arte, museos y bibliotecas",0.44,Low,0.3,The big unknown
+Técnicos y profesionales de nivel medio,Chefs,0.26,Low,0.16,Not affected
+Técnicos y profesionales de nivel medio,Otros profesionales de nivel medio en actividades culturales y artísticas,NA,NA,NA,Not affected
+Técnicos y profesionales de nivel medio,Técnicos en operaciones de tecnología de la información y las comunicaciones,0.54,Medium,0.19,The big unknown
+Técnicos y profesionales de nivel medio,Técnicos en asistencia al usuario de tecnología de la información y las comunicaciones,0.46,Low,0.21,The big unknown
+Técnicos y profesionales de nivel medio,Técnicos en redes y sistemas de computadores,0.43,Low,0.22,The big unknown
+Técnicos y profesionales de nivel medio,Técnicos de la Web,0.42,Low,0.16,The big unknown
+Técnicos y profesionales de nivel medio,Técnicos de radiodifusión y grabación audio visual,0.36,Low,0.19,Augmentation potential
+Técnicos y profesionales de nivel medio,Técnicos de ingeniería de las telecomunicaciones,0.35,Low,0.17,Augmentation potential
+Personal de apoyo administrativo,Oficinistas generales,0.68,Medium,0.22,The big unknown
+Personal de apoyo administrativo,Secretarios (general),0.64,Medium,0.12,Automation potential
+Personal de apoyo administrativo,Operadores de máquinas de procesamiento de texto y mecanógrafos,0.77,High,0.18,Automation potential
+Personal de apoyo administrativo,Grabadores de datos,0.7,Medium,0.1,Automation potential
+Personal de apoyo administrativo,Cajeros de bancos y afines,0.72,Medium,0.14,Automation potential
+Personal de apoyo administrativo,Receptores de apuestas y afines,0.52,Medium,0.24,The big unknown
+Personal de apoyo administrativo,Prestamistas,0.52,Medium,0.16,The big unknown
+Personal de apoyo administrativo,Cobradores y afines,0.57,Medium,0.13,The big unknown
+Personal de apoyo administrativo,Empleados de agencias de viajes,0.74,Medium,0.08,Automation potential
+Personal de apoyo administrativo,Empleados de centros de llamadas,0.72,Medium,0.09,Automation potential
+Personal de apoyo administrativo,Telefonistas,0.58,Medium,0.26,The big unknown
+Personal de apoyo administrativo,Recepcionistas de hoteles,0.68,Medium,0.14,Automation potential
+Personal de apoyo administrativo,Empleados de ventanillas de informaciones,0.72,Medium,0.1,Automation potential
+Personal de apoyo administrativo,Recepcionistas (general),0.64,Medium,0.21,The big unknown
+Personal de apoyo administrativo,Entrevistadores de encuestas y de investigaciones de mercados,0.71,Medium,0.13,Automation potential
+Personal de apoyo administrativo,Empleados de servicios de información al cliente no clasificados bajo otros epígrafes,0.54,Medium,0.14,The big unknown
+Personal de apoyo administrativo,Empleados de contabilidad y cálculo de costos,0.69,Medium,0.07,Automation potential
+Personal de apoyo administrativo,"Empleados de servicios estadísticos, financieros y de seguros",0.66,Medium,0.15,Automation potential
+Personal de apoyo administrativo,Empleados encargados de las nóminas,0.62,Medium,0.2,The big unknown
+Personal de apoyo administrativo,Empleados de control de abastecimientos e inventario,0.35,Low,0.18,Augmentation potential
+Personal de apoyo administrativo,Empleados de servicios de apoyo a la producción,0.6,Medium,0.12,The big unknown
+Personal de apoyo administrativo,Empleados de servicios de transporte,0.55,Medium,0.23,The big unknown
+Personal de apoyo administrativo,Empleados de bibliotecas,0.4,Low,0.3,The big unknown
+Personal de apoyo administrativo,Empleados de servicios de correos,0.48,Low,0.3,The big unknown
+Personal de apoyo administrativo,"Codificadores de datos, correctores de pruebas de imprenta y afines",0.65,Medium,0.19,The big unknown
+Personal de apoyo administrativo,Escribientes públicos y afines,0.72,Medium,0.13,Automation potential
+Personal de apoyo administrativo,Empleados de archivos,0.44,Low,0.31,The big unknown
+Personal de apoyo administrativo,Empleados del servicio de personal,0.71,Medium,0.14,Automation potential
+Personal de apoyo administrativo,Personal de apoyo administrativo no clasificado bajo otros epígrafes,0.72,Medium,0.1,Automation potential
+Trabajadores de los servicios y vendedores de comercios y mercados,Auxiliares de servicio de abordo,0.31,Low,0.24,Augmentation potential
+Trabajadores de los servicios y vendedores de comercios y mercados,Revisores y cobradores de los transportes públicos,0.37,Low,0.27,Augmentation potential
+Trabajadores de los servicios y vendedores de comercios y mercados,Guías de turismo,0.41,Low,0.21,The big unknown
+Trabajadores de los servicios y vendedores de comercios y mercados,Cocineros,0.19,Very low,0.18,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Camareros de mesas,0.32,Low,0.26,Augmentation potential
+Trabajadores de los servicios y vendedores de comercios y mercados,Camareros de barra,0.22,Very low,0.15,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Peluqueros,0.22,Very low,0.3,Augmentation potential
+Trabajadores de los servicios y vendedores de comercios y mercados,Especialistas en tratamientos de belleza y afines,0.22,Very low,0.27,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,"Supervisores de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos",0.24,Very low,0.21,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Ecónomos y mayordomos domésticos,0.22,Very low,0.22,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Conserjes,0.36,Low,0.29,Augmentation potential
+Trabajadores de los servicios y vendedores de comercios y mercados,"Astrólogos, adivinadores y afines",0.53,Medium,0.19,The big unknown
+Trabajadores de los servicios y vendedores de comercios y mercados,Acompañantes y ayudantes de cámara,0.13,Very low,0.06,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Personal de pompas fúnebres y embalsamadores,0.11,Very low,0.05,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Cuidadores de animales,0.16,Very low,0.13,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Instructores de autoescuela,0.38,Low,0.14,Augmentation potential
+Trabajadores de los servicios y vendedores de comercios y mercados,Trabajadores de servicios personales no clasificados bajo otros epígrafes,0.12,Very low,0.08,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Vendedores de quioscos y de puestos de mercado,0.39,Low,0.2,Augmentation potential
+Trabajadores de los servicios y vendedores de comercios y mercados,Vendedores ambulantes de productos comestibles,0.18,Very low,0.11,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Comerciantes de tiendas,0.61,Medium,0.14,The big unknown
+Trabajadores de los servicios y vendedores de comercios y mercados,Supervisores de tiendas y almacenes,0.42,Low,0.18,The big unknown
+Trabajadores de los servicios y vendedores de comercios y mercados,Asistentes de venta de tiendas y almacenes,0.44,Low,0.25,The big unknown
+Trabajadores de los servicios y vendedores de comercios y mercados,Cajeros y expendedores de billetes,0.26,Low,0.24,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,"Modelos de moda, arte y publicidad",0.09,Very low,0.02,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Demostradores de tiendas,0.54,Medium,0.23,The big unknown
+Trabajadores de los servicios y vendedores de comercios y mercados,Vendedores puerta a puerta,0.48,Low,0.25,The big unknown
+Trabajadores de los servicios y vendedores de comercios y mercados,Vendedores por teléfono,0.69,Medium,0.15,Automation potential
+Trabajadores de los servicios y vendedores de comercios y mercados,Expendedores de gasolineras,0.28,Low,0.23,Augmentation potential
+Trabajadores de los servicios y vendedores de comercios y mercados,Vendedores de comidas al mostrador,0.19,Very low,0.23,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Vendedores no clasificados bajo otros epígrafes,NA,NA,NA,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Cuidadores de niños,0.21,Very low,0.19,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Auxiliares de maestros,0.36,Low,0.21,Augmentation potential
+Trabajadores de los servicios y vendedores de comercios y mercados,Trabajadores de los cuidados personales en instituciones,0.1,Very low,0,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Trabajadores de los cuidados personales a domicilio,0.31,Low,0.18,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Trabajadores de los cuidados personales en servicios de salud no clasificados bajo otros epígrafes,0.12,Very low,0.04,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Bomberos,0.21,Very low,0.24,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Policías,0.15,Very low,0.06,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Guardianes de prisión,0.13,Very low,0.08,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Guardias de protección,0.17,Very low,0.1,Not affected
+Trabajadores de los servicios y vendedores de comercios y mercados,Personal de los servicios de protección no clasificados bajo otros epígrafes,0.21,Very low,0.09,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Agricultores y trabajadores calificados de cultivos extensivos,0.17,Very low,0.11,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Agricultores y trabajadores calificados de plantaciones de árboles y arbustos,0.18,Very low,0.08,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros","Agricultores y trabajadores calificados de huertas, invernaderos, viveros y jardines",0.15,Very low,0.15,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Agricultores y trabajadores calificados de cultivos mixtos,0.17,Very low,0.08,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Criadores de ganado,0.18,Very low,0.12,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Avicultores y trabajadores calificados de la avicultura,0.2,Very low,0.19,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Apicultores y sericultores y trabajadores calificados de la apicultura y la sericultura,0.33,Low,0.2,Augmentation potential
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Criadores y trabajadores pecuarios calificados de la cría de animales no clasificados bajo otros epígrafes,0.24,Very low,0.22,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Productores y trabajadores calificados de explotaciones agropecuarias mixtas cuya producción se destina al mercado,0.24,Very low,0.16,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Trabajadores forestales calificados y afines,0.14,Very low,0.05,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Trabajadores de explotaciones de acuicultura,0.22,Very low,0.18,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Pescadores de agua dulce y en aguas costeras,0.24,Very low,0.25,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Pescadores de alta mar,0.24,Very low,0.24,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Cazadores y tramperos,0.09,Very low,0.02,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Trabajadores agrícolas de subsistencia,0.14,Very low,0.05,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Trabajadores pecuarios de subsistencia,0.11,Very low,0.04,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",Trabajadores agropecuarios de subsistencia,0.13,Very low,0.07,Not affected
+"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros","Pescadores, cazadores, tramperos y recolectores de subsistencia",0.1,Very low,0,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Constructores de casas,0.15,Very low,0.08,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Albañiles,0.1,Very low,0,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Mamposteros, tronzadores, labrantes y grabadores de piedra",0.12,Very low,0.04,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Operarios en cemento armado, enfoscadores y afines",0.09,Very low,0.02,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Carpinteros de armar y de obra blanca,0.13,Very low,0.07,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Oficiales y operarios de la construcción (obra gruesa) y afines no clasificados bajo otros epígrafes,0.08,Very low,0.03,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Techadores,0.11,Very low,0.05,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Parqueteros y colocadores de suelos,0.1,Very low,0,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Revocadores,0.12,Very low,0.05,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Instaladores de material aislante y de insonorización,0.12,Very low,0.04,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Cristaleros,0.1,Very low,0,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Fontaneros e instaladores de tuberías,0.19,Very low,0.14,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Mecánicos-montadores de instalaciones de refrigeración y climatización,0.18,Very low,0.05,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Pintores y empapeladores,0.12,Very low,0.04,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Barnizadores y afines,0.13,Very low,0.03,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Limpiadores de fachadas y deshollinadores,0.13,Very low,0.06,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Moldeadores y macheros,0.11,Very low,0.02,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Soldadores y oxicortadores,0.11,Very low,0.04,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Chapistas y caldereros,0.21,Very low,0.15,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Montadores de estructuras metálicas,0.12,Very low,0.04,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Aparejadores y empalmadores de cables,0.14,Very low,0.08,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Herreros y forjadores,0.16,Very low,0.11,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Herramentistas y afines,0.21,Very low,0.15,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Reguladores y operadores de máquinas herramientas,0.17,Very low,0.08,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Pulidores de metales y afiladores de herramientas,0.16,Very low,0.09,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Mecánicos y reparadores de vehículos de motor,0.14,Very low,0.11,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Mecánicos y reparadores de motores de avión,0.16,Very low,0.12,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Mecánicos y reparadores de máquinas agrícolas e industriales,0.19,Very low,0.2,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Reparadores de bicicletas y afines,0.09,Very low,0.02,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Mecánicos y reparadores de instrumentos de precisión,0.18,Very low,0.08,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Fabricantes y afinadores de instrumentos musicales,0.1,Very low,0.03,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Joyeros, orfebres y plateros",0.15,Very low,0.08,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Alfareros y afines (barro, arcilla y abrasivos)",0.19,Very low,0.15,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Sopladores, modeladores, laminadores, cortadores y pulidores de vidrio",0.22,Very low,0.15,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Redactores de carteles, pintores decorativos y grabadores",0.24,Very low,0.15,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Artesanos en madera, cestería y materiales similares",0.1,Very low,0.02,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Artesanos de los tejidos, el cuero y materiales similares",0.1,Very low,0.04,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Artesanos no clasificados bajo otros epígrafes,NA,NA,NA,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Cajistas, tipógrafos y afines",0.26,Low,0.23,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Impresores,0.22,Very low,0.14,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Encuadernadores y afines,0.17,Very low,0.09,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Electricistas de obras y afines,0.18,Very low,0.07,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Mecánicos y ajustadores electricistas,0.14,Very low,0.06,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Instaladores y reparadores de líneas eléctricas,0.14,Very low,0.08,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Mecánicos y reparadores en electrónica,0.25,Very low,0.16,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Instaladores y reparadores en tecnología de la información y las comunicaciones,0.16,Very low,0.1,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Carniceros, pescaderos y afines",0.14,Very low,0.05,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Panaderos, pasteleros y confiteros",0.14,Very low,0.07,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Operarios de la elaboración de productos lácteos,0.16,Very low,0.09,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Operarios de la conservación de frutas, legumbres, verduras y afines",0.1,Very low,0,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Catadores y clasificadores de alimentos y bebidas,0.29,Low,0.19,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Preparadores y elaboradores de tabaco y sus productos,0.14,Very low,0.05,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Operarios del tratamiento de la madera,0.21,Very low,0.17,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Ebanistas y afines,0.14,Very low,0.1,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Reguladores y operadores de máquinas de labrar madera,0.14,Very low,0.13,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Sastres, modistos, peleteros y sombrereros",0.13,Very low,0.08,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Patronistas y cortadores de tela y afines,0.28,Low,0.21,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Costureros, bordadores y afines",0.12,Very low,0.04,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Tapiceros, colchoneros y afines",0.16,Very low,0.12,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Apelambradores, pellejeros y curtidores",0.11,Very low,0.05,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Zapateros y afines,0.15,Very low,0.09,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Buzos,0.18,Very low,0.17,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Dinamiteros y pegadores,0.19,Very low,0.17,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Clasificadores y probadores de productos (excluyendo alimentos y bebidas),0.4,Low,0.2,The big unknown
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",Fumigadores y otros controladores de plagas y malas hierbas,0.14,Very low,0.08,Not affected
+"Oficiales, operarios y artesanos de artes mecánicas y de otros oficios","Oficiales, operarios y artesanos de artes mecánicas y de otros oficios no clasificados bajo otros epígrafes",0.08,Very low,0.04,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Mineros y operadores de instalaciones mineras,0.24,Very low,0.24,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de instalaciones de procesamiento de minerales y rocas,0.21,Very low,0.17,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Perforadores y sondistas de pozos y afines,0.22,Very low,0.2,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas para fabricar cemento y otros productos minerales,0.22,Very low,0.2,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de instalaciones de procesamiento de metales,0.24,Very low,0.11,Not affected
+Operadores de instalaciones y máquinas y ensambladores,"Operadores de máquinas pulidoras, galvanizadoras y recubridoras de metales",0.19,Very low,0.09,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de plantas y máquinas de productos químicos,0.25,Very low,0.13,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas para fabricar productos fotográficos,0.31,Low,0.21,Augmentation potential
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas para fabricar productos de caucho,0.18,Very low,0.06,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas para fabricar productos de material plástico,0.2,Very low,0.18,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas para fabricar productos de papel,0.15,Very low,0.05,Not affected
+Operadores de instalaciones y máquinas y ensambladores,"Operadores de máquinas de preparación de fibras, hilado y devanado",0.12,Very low,0.04,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de telares y otras máquinas tejedoras,0.15,Very low,0.09,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas de coser,0.15,Very low,0.08,Not affected
+Operadores de instalaciones y máquinas y ensambladores,"Operadores de máquinas de blanqueamiento, teñido y limpieza de tejidos",0.22,Very low,0.2,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas de tratamiento de pieles y cueros,0.15,Very low,0.06,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas para la fabricación de calzado y afines,0.13,Very low,0.03,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas lavarropas,0.12,Very low,0.05,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas para fabricar productos textiles y artículos de piel y cuero no clasificados bajo otros epígrafes,0.18,Very low,0.11,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas para elaborar alimentos y productos afines,0.16,Very low,0.07,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de instalaciones para la preparación de pasta para papel y papel,0.36,Low,0.26,Augmentation potential
+Operadores de instalaciones y máquinas y ensambladores,Operadores de instalaciones de procesamiento de la madera,0.18,Very low,0.11,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de instalaciones de vidriería y cerámica,0.14,Very low,0.06,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas de vapor y calderas,0.23,Very low,0.11,Not affected
+Operadores de instalaciones y máquinas y ensambladores,"Operadores de máquinas de embalaje, embotellamiento y etiquetado",0.23,Very low,0.1,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas y de instalaciones fijas no clasificados bajo otros epígrafes,NA,NA,NA,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Ensambladores de maquinaria mecánica,0.31,Low,0.29,Augmentation potential
+Operadores de instalaciones y máquinas y ensambladores,Ensambladores de equipos eléctricos y electrónicos,0.36,Low,0.32,Augmentation potential
+Operadores de instalaciones y máquinas y ensambladores,Ensambladores no clasificados bajo otros epígrafes,0.35,Low,0.22,Augmentation potential
+Operadores de instalaciones y máquinas y ensambladores,Maquinistas de locomotoras,0.26,Low,0.21,Not affected
+Operadores de instalaciones y máquinas y ensambladores,"Guardafrenos, guardagujas y agentes de maniobras",0.22,Very low,0.08,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Conductores de motocicletas,0.26,Low,0.26,Augmentation potential
+Operadores de instalaciones y máquinas y ensambladores,"Conductores de automóviles, taxis y camionetas",0.24,Very low,0.25,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Conductores de autobuses y tranvías,0.2,Very low,0.18,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Conductores de camiones pesados,0.23,Very low,0.19,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de maquinaria agrícola y forestal móvil,0.12,Very low,0.05,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de máquinas de movimiento de tierras y afines,0.12,Very low,0.04,Not affected
+Operadores de instalaciones y máquinas y ensambladores,"Operadores de grúas, aparatos elevadores y afines",0.16,Very low,0.09,Not affected
+Operadores de instalaciones y máquinas y ensambladores,Operadores de autoelevadoras,0.32,Low,0.26,Augmentation potential
+Operadores de instalaciones y máquinas y ensambladores,Marineros de cubierta y afines,0.12,Very low,0.06,Not affected
+Ocupaciones elementales,Limpiadores y asistentes domésticos,0.14,Very low,0.06,Not affected
+Ocupaciones elementales,"Limpiadores y asistentes de oficinas, hoteles y otros establecimientos",0.1,Very low,0,Not affected
+Ocupaciones elementales,Lavanderos y planchadores manuales,0.11,Very low,0.02,Not affected
+Ocupaciones elementales,Lavadores de vehículos,0.11,Very low,0.05,Not affected
+Ocupaciones elementales,Lavadores de ventanas,0.1,Very low,0,Not affected
+Ocupaciones elementales,Otro personal de limpieza,0.12,Very low,0.04,Not affected
+Ocupaciones elementales,Peones de explotaciones agrícolas,0.1,Very low,0.03,Not affected
+Ocupaciones elementales,Peones de explotaciones ganaderas,0.12,Very low,0.05,Not affected
+Ocupaciones elementales,Peones de explotaciones de cultivos mixtos y ganaderos,0.1,Very low,0.08,Not affected
+Ocupaciones elementales,Peones de jardinería y horticultura,0.1,Very low,0,Not affected
+Ocupaciones elementales,Peones forestales,0.11,Very low,0.05,Not affected
+Ocupaciones elementales,Peones de pesca y acuicultura,0.1,Very low,0,Not affected
+Ocupaciones elementales,Peones de minas y canteras,0.13,Very low,0.05,Not affected
+Ocupaciones elementales,Peones de obras públicas y mantenimiento,0.1,Very low,0.04,Not affected
+Ocupaciones elementales,Peones de la construcción de edificios,0.1,Very low,0,Not affected
+Ocupaciones elementales,Empacadores manuales,0.13,Very low,0.06,Not affected
+Ocupaciones elementales,Peones de la industria manufacturera no clasificados bajo otros epígrafes,0.1,Very low,0,Not affected
+Ocupaciones elementales,Conductores de vehículos accionados a pedal o a brazo,0.15,Very low,0.09,Not affected
+Ocupaciones elementales,Conductores de vehículos y máquinas de tracción animal,0.11,Very low,0.05,Not affected
+Ocupaciones elementales,Peones de carga,0.17,Very low,0.08,Not affected
+Ocupaciones elementales,Reponedores de estanterías,0.2,Very low,0.21,Not affected
+Ocupaciones elementales,Cocineros de comidas rápidas,0.12,Very low,0.04,Not affected
+Ocupaciones elementales,Ayudantes de cocina,0.08,Very low,0.03,Not affected
+Ocupaciones elementales,Trabajadores ambulantes de servicios y afines,0.28,Low,0.25,Augmentation potential
+Ocupaciones elementales,Vendedores ambulantes (excluyendo de comida),0.16,Very low,0.05,Not affected
+Ocupaciones elementales,Recolectores de basura y material reciclable,0.1,Very low,0,Not affected
+Ocupaciones elementales,Clasificadores de desechos,0.14,Very low,0.09,Not affected
+Ocupaciones elementales,Barrenderos y afines,0.1,Very low,0,Not affected
+Ocupaciones elementales,"Mensajeros, mandaderos, maleteros y repartidores",0.28,Low,0.27,Augmentation potential
+Ocupaciones elementales,Personas que realizan trabajos varios,0.09,Very low,0.03,Not affected
+Ocupaciones elementales,Recolectores de dinero en aparatos de venta automática y lectores de medidores,0.36,Low,0.36,Augmentation potential
+Ocupaciones elementales,Acarreadores de agua y recolectores  de  leña,0.11,Very low,0.05,Not affected
+Ocupaciones elementales,Ocupaciones elementales no clasificadas bajo otros epígrafes,0.38,Low,0.2,Augmentation potential
